@@ -9,3 +9,5 @@ johon tehdään taulu. Tietokannan luonnin jälkeen yhdistetään tietokantaan P
 
 [![ITODO-lista](https://img.youtube.com/vi/jCH7prhQCM0/0.jpg)](https://www.youtube.com/watch?v=jCH7prhQCM0)
 
+Lisätiedot ja kysymykset:
+https://www.tietokyky.fi/2020/03/08/todo-lista-phplla/
