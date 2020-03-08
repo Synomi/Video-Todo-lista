@@ -6,4 +6,6 @@ Tein TODO-lista sovelluksen tekemisestä opetus videon youtubeen, videon löytä
 Sovelluksessa käytetään MySQL-tietokantaa ja PHP:tä. MySQL-server laitetaan pyörimään omalle koneelle ja siihen tehdään tietokanta,
 johon tehdään taulu. Tietokannan luonnin jälkeen yhdistetään tietokantaan PHP:n PDO:lla. Kun perusasiat ovat kunnossa, tehdään sovellus.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jCH7prhQCM0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![ITODO-lista](https://img.youtube.com/vi/jCH7prhQCM0/0.jpg)](https://www.youtube.com/watch?v=jCH7prhQCM0)
+
